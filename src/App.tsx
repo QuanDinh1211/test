@@ -75,8 +75,8 @@ function App() {
           <Hero />
           <Countdown />
           <LoveLetter />
-          <Timeline />
-          <PhotoGallery />
+          {/* <Timeline /> */}
+          {/* <PhotoGallery /> */}
           <MiniGame />
           <SurpriseButton />
           <WishSection />
