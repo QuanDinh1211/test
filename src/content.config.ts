@@ -211,7 +211,7 @@ export const content = {
   // Thay URL bên dưới bằng file nhạc của bạn (MP3)
   // Replace with your own music file URL
   music: {
-    src: '', // ← Đặt link MP3 vào đây, ví dụ: '/music/love-song.mp3'
+    src: '/music/khong_thoi_gian.mp3', // ← Đặt link MP3 vào đây, ví dụ: '/music/khong_thoi_gian.mp3'
     title: 'Romantic Music',
   },
 };
